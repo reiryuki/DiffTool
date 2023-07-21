@@ -2,6 +2,7 @@
 
 ## Descriptions
 - DiffTool app with fixed storage permissions
+- What app is this? Tap here: https://play.google.com/store/apps/details?id=com.difftool. Tap the "About this app" there.
 
 ## Sources
 - https://play.google.com/store/apps/details?id=com.difftool
