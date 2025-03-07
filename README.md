@@ -14,20 +14,14 @@
 - https://www.pling.com/p/2064640/
 
 ## Support & Bug Report
-- https://t.me/androidryukimodsdiscussions/2618
+- https://t.me/ryukinotes/54
 - If you don't do above, issues will be closed immediately
-
-## Tested on
-- Android 13 CrDroid ROM
 
 ## Credits and contributors
 - https://t.me/androidryukimodsdiscussions
 - You can contribute ideas about this app here: https://t.me/androidappsportdevelopment
 
-## Thanks for Donations
-- This app is always will be free but you can however show us that you are care by making a donations:
-- https://ko-fi.com/reiryuki
-- https://www.paypal.me/reiryuki
-- https://t.me/androidryukimodsdiscussions/2619
+## Sponsors
+- https://t.me/ryukinotes/25
 
 
